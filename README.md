@@ -7,6 +7,7 @@
 **One of the few open source Calendar Controls that allows date range selection**
 
 ![screen shot 2015-05-08 at 10 11 50 am](https://cloud.githubusercontent.com/assets/4943759/7537969/b4ee73d4-f56a-11e4-8e03-748b9b712fee.png)
+![test](https://cloud.githubusercontent.com/assets/4943759/7538539/b16c948a-f56e-11e4-8447-a65fb2245339.png)
 
 
 #Installation
