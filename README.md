@@ -1,7 +1,6 @@
 # DSLCalendarViewRedux
-DSLCalendarViewRedux
 
-**Fixed Deprecated Code**
+**Fixed Deprecated Objective-C Code**
 
 **Imported to Swift Project**
 
