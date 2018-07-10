@@ -10,7 +10,7 @@
 ![test](https://cloud.githubusercontent.com/assets/4943759/7538539/b16c948a-f56e-11e4-8447-a65fb2245339.png)
 
 
-#Installation
+# Installation
 **Drag CalendarView project folder into project**
 
 **Add Objective C Header File**
@@ -18,7 +18,7 @@
 
 **#import "DSLCalendarView.h"**
 
-#License
+# License
 
 Copyright © 2012 Pete Callaway. All rights reserved.
 
